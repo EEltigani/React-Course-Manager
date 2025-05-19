@@ -1,4 +1,3 @@
-# UWL-React-Coursework-Course-Management-Web-App-Individual-Project-
 # 📘 Course Management Web App – React (Individual Assignment)
 
 This project is a mobile-responsive web application developed using **React.js**, created for the **Mobile Web Application Development (CP50093E)** module at the University of West London.
